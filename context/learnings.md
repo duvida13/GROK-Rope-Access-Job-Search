@@ -12,3 +12,10 @@
 - Bilfinger jobs.bilfinger.com confirmed a live NL Height Specialists RAT with IRATA training offered.
 - SPIE Wind Bremen blade-rope ads are active on Indeed DE under ref 2026-1495 / German twin title.
 - Scope this run reached specialist boards + ES, FR (light), UK (light), NL, DE, PT aggregator, SE (TTR). Not a full pass on NO, DK, IT, PL, RO, CH, AT, BE, IE, LU.
+
+## 2026-09-11 correction — Altrad Rotterdam IRATA 1
+
+- LinkedIn job 4396578339 now redirects to an expired-job page (`trk=expired_jd_redirect`). User confirmed posted ~5 months ago and applications closed.
+- First-run mistake: treated a LinkedIn search snippet + Expertini/Careerjet/Glassdoor mirrors as “recent” because Glassdoor said “3d”. Aggregators recycle closed ads. Live vs closed must be read on the actual apply page.
+- Keep Altrad Benelux as a company-watch (they hire IRATA 1 for inspection/insulation). Do not list that URL as an open vacancy.
+- Rule added: if LinkedIn says closed / expired redirect / “no longer accepting”, log as Company watch, not Live.
