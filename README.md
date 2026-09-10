@@ -2,9 +2,10 @@
 
 Grok-only working repo for Luis Fernandes Europe rope-access job search.
 
-- `context/` — rules, terms, portals, learnings, and the full portable brief
-- `context/Portable_Job_Search_Brief.md` — methodology, country terms, portal quirks, source list
-- `context/candidate.md` — live profile for this project (use this + the uploaded CV, not the old experience bank)
+Live instructions: `context/GROK_Project_Instructions.md`
+
+- `context/` — instructions, candidate note, terms, portals, learnings
 - `finds/` — one markdown file per daily run (`YYYY-MM-DD.md`)
+- `context/Portable_Job_Search_Brief.md` — archive of the old multi-project brief (do not follow CV/vault sections)
 
 Do not mix with the other AI repos on this account.
