@@ -61,11 +61,16 @@ He uses **one or two standard CVs**. Do not build a new CV per job.
 
 ## How to search (every run)
 
-1. English baseline first, every country: **rope access** and **IRATA**.
-2. Then the local term for that country.
-3. Then specialist boards and employer career pages.
-4. Open the actual posting (or employer page) before calling it live.
-5. If a country or board was not opened, say so in the run summary. Do not imply a full Europe sweep.
+Not a single English Google dump. Each country gets this stack, in this order:
+
+1. **Baseline English (mandatory):** `rope access` and `IRATA` on that country’s boards and on the open web. IRATA is used untranslated. Skipping this has already missed companies whose name is literally “Rope Access …”.
+2. **Local trade words** (the ones that actually work, not dictionary translations) — table below.
+3. **Disguised rope-access titles:** blade technician / blade repair / LPS inspection / composite repair / Rotorblatt / pás / palas. Still log them. Mark `Blade: yes`. Do not drop them because the CV has no blade-service history.
+4. **Specialist boards + agencies + company careers**, not only Indeed.
+
+Then open the posting (or the company’s own careers page) before logging it. If it cannot be verified, it stays out or is marked Unverified date — never invented.
+
+If a country or board was not opened, say so in the run summary. Do not imply a full Europe sweep.
 
 ### Local terms
 
@@ -77,29 +82,53 @@ He uses **one or two standard CVs**. Do not build a new CV per job.
 | Portugal | acesso por cordas — not generic “trabalhos em altura” |
 | Spain | trabajos verticales / técnico vertical / ANETVA or IRATA |
 | Norway | tilkomstteknikk |
-| Sweden | reparbetare |
+| Sweden | reparbetare / reptekniker |
 | Denmark | erhvervsklatrer / IRATA |
 | Poland | alpinista przemysłowy / technik dostępu linowego + IRATA |
 | Romania | alpinism utilitar |
-| Netherlands | English is enough; local translations failed |
+| Netherlands | English is enough; local coinages failed |
 | Ireland, UK, Luxembourg, Belgium (Flanders) | English baseline + IRATA |
 
-Disguised titles to catch: Blade Repair, Blade Technician, LPS inspection, composite repair, Rotorblatt, pás, palas.
+### Where “deep” actually happens
 
-### Boards that usually pay off
+**Specialist boards (every run)**
 
-- irata.org/jobs
-- rigg-access.com category pages (`/jobsbycat/rope-access-jobs/1` and wind/rigging cats)
-- ttrinternational.com ofertas / employment
-- anetva.org/bolsa-de-empleo (open each card; stale and live sit together)
+- IRATA jobs board — irata.org/jobs
+- Rigg Access category pages — `/jobsbycat/rope-access-jobs/1` plus wind and rigging cats
+- TTR International — ttrinternational.com ofertas / employment
+- ANETVA bolsa — anetva.org/bolsa-de-empleo (open each card; stale and live sit together)
 - offres.emploi-cordiste.fr
-- jobs.bilfinger.com
-- jobs.rts-wind.de
 - lalineavertical.com
-- karrierestart.no and finn.no
-- candidat.francetravail.fr and hellowork.com (FR pages may 403 to bots — that is not “dead”)
-- net-empregos.com with `chaves=acesso+por+cordas`
-- Country Indeed sites — search the **country name**, not only a city
+- CareerStructure — rope-access / rigging / scaffolding Europe slugs
+
+**Agencies / industrial groups (careers pages, not just ads)**
+
+- Altrad Sparrows
+- Bilfinger / jobs.bilfinger.com / Height Specialists / ISP
+- Land and Sea Resources
+- Norwegian Group / nuu.no
+- NES Fircroft, Airswift
+- SWIRE-style blade campaigns (one lead per country)
+- Aerones (multi-country careers page)
+- RTS Wind / jobs.rts-wind.de, SPIE Wind
+- Groupe NA / ADRENALINE / BTH
+- Groupe Jarnias subsidiaries (SILONET, ALTI CITY, ACRO BTP, PROFIL Energy, etc.)
+- Acrobatica — field roles only (muratore / operaio / cordiste urbain), not sales/admin
+- CGS Nordic / Klätterservice, Rope Access Sverige AB
+- leteam SA / das team ag (evergreen CH)
+- Sky-Work, RT9
+- Romanian firms often have “join us” on the homepage, no dated ad: AlpAccess, TheRock Construct, AlpinMax, Nera Alpin
+
+**National portals**
+
+- Indeed per country — **country-level** location, not only city
+- France: France Travail / Hellowork (detail pages may 403 to bots; that is not “dead”)
+- Norway: Finn.no / karrierestart.no
+- Spain: InfoJobs.es
+- Germany: StepStone.de / Indeed.de
+- UK: findajob.dwp.gov.uk (check close dates — many are dead), totaljobs, s1jobs (Scotland / Aberdeen)
+- Denmark: Jobindex (verify; it fuzzy-matches)
+- Portugal: SAPO / Net-Empregos (`chaves=acesso+por+cordas`) / IEFP
 - Employer pages beat Indeed / Glassdoor / Careerjet / Expertini dates
 
 ### Known traps
