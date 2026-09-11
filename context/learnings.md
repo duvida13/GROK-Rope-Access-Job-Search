@@ -19,3 +19,15 @@
 - First-run mistake: treated a LinkedIn search snippet + Expertini/Careerjet/Glassdoor mirrors as “recent” because Glassdoor said “3d”. Aggregators recycle closed ads. Live vs closed must be read on the actual apply page.
 - Keep Altrad Benelux as a company-watch (they hire IRATA 1 for inspection/insulation). Do not list that URL as an open vacancy.
 - Rule added: if LinkedIn says closed / expired redirect / “no longer accepting”, log as Company watch, not Live.
+
+## 2026-09-11 pass 2
+
+- ANETVA is the biggest new source vs pass 1. Sep 2026 cards = Live-on-board; Feb–Jun = Unverified date.
+- IRATA.org field ads exist this week (two UK L3 window-cleaning cards). Not only HQ.
+- Bilfinger UK careers: painters + NDT L1 Tiffany (1409711133) + multi-NDT radiographer. Do not mix with L3 Team Leader slug.
+- Italy: search `su fune` / `operatore su fune`. 2High, BlackLine, Edilfuni.
+- Finn.no opened: most TT ads expired (frist utløpt). Hytech electro deadline 31 Aug 2026 past. Still a useful NO query.
+- PL/RO: Eventus watch only; OLX/eJobs informal; Jan–Mar eJobs telecom-alpinist already expired.
+- France: 350+ cordiste ads, mostly interim. Océlian/VINCI Saint-Nazaire is the named-employer CDI to keep.
+- Do not invent ANETVA detail URLs when only the index row is visible.
+- Boards still thin: emploi-cordiste body, lalineavertical, CareerStructure, DK, CH, BE, LU, IE, AT, PT portals.
